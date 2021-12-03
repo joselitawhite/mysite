@@ -1,0 +1,13 @@
+
+
+div { border: 1px lightcyan solid;}
+span {background-color: pink;}
+html {background-color: beige;}
+body {
+    font-size: 24px; font-family:'Times New Roman', Times, serif;
+    font-weight:bold 
+}
+.dark {background-color: orange;}
+/* main {width: 70%; margin: auto; } */
+header, section {width:70%; margin: auto;}
+section.fullwidth {width:100%;}
